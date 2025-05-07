@@ -1,2 +1,2 @@
-print ("SA FONCTIONNE !")
+print ("oui !")
 print ("bonjour")
